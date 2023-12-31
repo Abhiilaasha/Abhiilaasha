@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhilaasha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhiilaasha&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiilaasha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhiilaasha&theme=" alt="Abhiilaasha" /></a> </p>
-
 - 🌱 I’m currently learning **React.js **
 
 - 📫 How to reach me **sinhaabhi0402@gmail.com**
