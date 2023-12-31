@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhilaasha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhiilaasha&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiilaasha" /> </p>
 
-- 🌱 I’m currently learning **React.js **
+- 🌱 I’m currently learning  React.js 
 
-- 📫 How to reach me **sinhaabhi0402@gmail.com**
-- 👨‍💻 All of my projects are available at **https://abhiilaasha.netlify.app/**
+- 📫 How to reach me   **sinhaabhi0402@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Abhilaasha a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Abhiilaasha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -34,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
+<br>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiilaasha&layout=compact&theme=nightowl" alt=Abhiilaasha />
 
